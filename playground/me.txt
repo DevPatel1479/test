@@ -1,8 +1,0 @@
-{{#user}
-
-Name: Dev 
-Skills: HTML, CSS, JS, Python, MySQl, C, C++
-Email: devpatel1828king@gmail.com
-
-{{/user}}
-
